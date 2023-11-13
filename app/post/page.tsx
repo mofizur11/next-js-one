@@ -1,5 +1,5 @@
 export default function Post() {
-  return <h1>New Post</h1>;
+  return <h1>New Post Live test</h1>;
 }
 // import Image from "next/image";
 // const getPostsData = async () => {
